@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/FGH/AndroidStudioProjects/Lemonade/app/src/main/res/drawable/lemon_squeeze.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/FGH/AndroidStudioProjects/Lemonade/app/src/main/res/drawable/lemon_tree.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/FGH/AndroidStudioProjects/Lemonade/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/FGH/AndroidStudioProjects/Lemonade_Incomplete/app/src/main/res/drawable/ic_launcher_lemonade_background.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/FGH/AndroidStudioProjects/Lemonade_Incomplete/app/src/main/res/drawable/ic_launcher_lemonade_foreground.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/FGH/AndroidStudioProjects/Lemonade_Incomplete/app/src/main/res/drawable/lemon_drink.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/FGH/AndroidStudioProjects/Lemonade_Incomplete/app/src/main/res/drawable/lemon_restart.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/FGH/AndroidStudioProjects/Lemonade_Incomplete/app/src/main/res/drawable/lemon_squeeze.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/FGH/AndroidStudioProjects/Lemonade_Incomplete/app/src/main/res/drawable/lemon_tree.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/FGH/AndroidStudioProjects/Lemonade_Incomplete/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/Users/FGH/AndroidStudioProjects/Lemonade_Incomplete/app/src/main/res/mipmap-anydpi-v26/ic_launcher_lemonade.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/FGH/AndroidStudioProjects/Lemonade_Incomplete/app/src/main/res/mipmap-anydpi-v26/ic_launcher_lemonade_round.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Lemonade_Incomplete/Lemonade_Incomplete/app/src/main/res/drawable/ic_launcher_lemonade_background.xml" value="0.126" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Lemonade_Incomplete/Lemonade_Incomplete/app/src/main/res/drawable/ic_launcher_lemonade_foreground.xml" value="0.126" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Lemonade_Incomplete/Lemonade_Incomplete/app/src/main/res/drawable/lemon_drink.xml" value="0.126" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Lemonade_Incomplete/Lemonade_Incomplete/app/src/main/res/drawable/lemon_restart.xml" value="0.126" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Lemonade_Incomplete/Lemonade_Incomplete/app/src/main/res/drawable/lemon_squeeze.xml" value="0.126" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Lemonade_Incomplete/Lemonade_Incomplete/app/src/main/res/drawable/lemon_tree.xml" value="0.126" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Lemonade_Incomplete/Lemonade_Incomplete/app/src/main/res/layout/activity_main.xml" value="0.18206521739130435" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
